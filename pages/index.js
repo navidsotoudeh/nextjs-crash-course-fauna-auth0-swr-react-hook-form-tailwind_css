@@ -7,7 +7,7 @@ export default function Home() {
   return (
     <div>
       <Head>
-        <title>Snippets App</title>
+        <title>Snippets App made by nextjs</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
